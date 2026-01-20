@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img align="center"  src="https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif" />
 </div>
 
@@ -79,17 +79,6 @@
 <br>
 
 </details>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center">
-    <img align="center"
-         src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=7b2cbf" />
-  </p>
-</div>
 
 <br>
 
