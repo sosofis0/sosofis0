@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center"  src="https://i.pinimg.com/736x/4b/14/b0/4b14b0955683fd13f25215d306db5e12.jpg" />
+  <img align="center"  src="https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif" />
 </div>
 
 <div align="center">
