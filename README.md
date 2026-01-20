@@ -1,4 +1,4 @@
-<img width="100%" src="file:///C:/Users/SOFIA/Downloads/upscalemedia-transformed.png"/>
+<img width="100%" src="Assets/upscalemedia-transformed.png"/>
 
 <br>
 
