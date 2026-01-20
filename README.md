@@ -1,4 +1,4 @@
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header](https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif)"/>
+<img width="100%" src="file:///C:/Users/SOFIA/Downloads/upscalemedia-transformed.png"/>
 
 <br>
 
