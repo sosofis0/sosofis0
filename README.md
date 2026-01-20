@@ -23,9 +23,8 @@
 <div align="center">
 
   <img 
-    height="200"
-     src="https://github-readme-stats.vercel.app/api?username=sosofis0&show_icons=true&theme=tokyonight&locale=pt-br&hide=contribs"
-  />
+    height="200" src="https://github-readme-stats.vercel.app/api?username=sosofis0&show_icons=true&theme=tokyonight&hide=contribs"/>
+
 
   <img 
     height="200"
