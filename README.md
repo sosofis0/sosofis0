@@ -67,8 +67,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiaemilly1813@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/sofiaemillydev)
+[![Gmail](https://img.shields.io/badge/Gmail-7b2cbf?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiaemilly1813@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sofiaemillydev)
+
   
 </div>
 
