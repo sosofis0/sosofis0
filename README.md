@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header](https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif))" />
 </div>
 
 <div align="center">
