@@ -67,7 +67,7 @@
   <br>
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-7b2cbf?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiaemilly1813@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7b2cbf?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiaemilly181)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sofiaemillydev)
 
   
