@@ -10,21 +10,22 @@
       Hi there! I'm <b>Sofia Emilly</b>
   </samp>
 </div>
-
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer+and+digital+illustrator;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-
- <div align="center" width="100%">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb86fc&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer+and+digital+illustrator;Be+welcome!" 
     alt="Typing SVG"
   />
 </div>
+
+
+<br>
+
+<div align="center">
+
+  <img 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=sosofis0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
   <img 
     height="200"
@@ -32,6 +33,7 @@
   />
 
 </div>
+
 
 
 <div align="center" style="display: inline_block"><br>
