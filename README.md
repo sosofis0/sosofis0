@@ -48,18 +48,7 @@
 <br>
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b style="color:#bb86fc;">More Info</b>
-      </samp>
-  </summary>
-  
-<br>
 
-##
-
-<br>
 
 <div align="center">
   <samp>
