@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center"  src="file:///C:/Users/SOFIA/Downloads/upscalemedia-transformed.png" />
+  <img align="center"  src="Assets/upscalemedia-transformed.png" />
 </div>
 
 <div align="center">
