@@ -22,9 +22,10 @@
 
 <div align="center">
 
- <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sosofis0&theme=dracula"
- />
+  <img 
+    height="200"
+     src="https://github-readme-stats.vercel.app/api?username=sosofis0&show_icons=true&theme=tokyonight&locale=pt-br&hide=contribs"
+  />
 
   <img 
     height="200"
