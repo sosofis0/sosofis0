@@ -20,18 +20,6 @@
 
 <br>
 
-<div align="center">
-
-  <img 
-    height="200" src="https://github-readme-stats.vercel.app/api?username=sosofis0&show_icons=true&theme=tokyonight&hide=contribs"/>
-
-
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosofis0&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
-  />
-
-</div>
 
 
 
